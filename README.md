@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Thearong 😎🎓
 <p align="left"> 
   <samp>
-    「 Having Specialization in Backend & Frontend. Working as Web & Software Developer for 2 years. 」
+    「 Having Specialization in Backend & Frontend. Working as Full-Stack Developer for 2 years. 」
   </samp>
 </p>
 <!--
