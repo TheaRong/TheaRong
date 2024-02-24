@@ -1,5 +1,12 @@
 ### Hi there 👋 I'm Thearong 😎🎓
-
+<p align="center"> 
+  <samp>
+    <br>
+    「 Having Specialization in Backend & Frontend. Working as Web & Software Developer for 2 years. 」
+    <br>
+    <br>
+  </samp>
+</p>
 <!--
 **TheaRong/TheaRong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
